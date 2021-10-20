@@ -1,0 +1,53 @@
+# Resumo.
+
+## Lógica de Programação.
+
+Significa contextualizar a lógica na programação de computadores,buscando a melhor sequencia de ações para solucionar um problema.
+
+## Algoritmos.
+
+É uma sequencia de passos que resolve um problema.
+
+## Pseudocódigo.
+
+É uma forma genérica de escrever um algoritmo.
+
+## Estrutura de Dados.
+
+* Vetores,Matrizes
+
+* Registros
+
+* Listas
+
+* Pilhas
+
+* Filas
+
+* Árvore
+
+* Tabela Hash
+
+* Grafos
+
+  ## Html.
+
+  É uma linguagem que possibilita apresentar informação na internet.
+
+  ## Git.
+
+  É um sistema de versionamento  de código distribuído dentro de uma máquina  e um servidor.
+
+  ## Github.
+
+  É um apelido para HTPPS , servidor.
+
+  
+
+  ## 
+
+  ## 
+
+  
+
+  
